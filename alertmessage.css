@@ -1,0 +1,32 @@
+#button1
+{
+    width:100px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 20px;
+  
+}
+#button2
+{
+    width:100px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-left: 10px;
+}
+#button3
+{
+    width:100px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-left: 10px;
+}
+#button4
+{
+    width:100px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-left: 10px;
+}
